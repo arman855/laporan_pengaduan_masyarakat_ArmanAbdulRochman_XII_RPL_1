@@ -1,1 +1,1 @@
-# laporan_pengaduan_masyarakat_ArmanAbdulRochman_XII_RPL_1
+# aplikasi_laporan_pengaduan_masyarakat_ArmanAbdulRochman_XII_RPL_1
